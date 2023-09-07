@@ -5,7 +5,7 @@
 using namespace std;
 void menu();void guardar();void eliminar();void consultar();void buscar();void modificar();void salir();	// void es parecido a switch en la manera de funcionar pero void permite al usuario elegir una opcion antes de entra a un menu especifico como tal como lo haria switch.
 char nombre[30],grupo[10];
-char mensaje[] = {'P','R','O','G','R','A','M','A','C','I','O','N',' ','D','E',' ','S','O','F','T','W','A','R','E'};
+char mensaje[] = {'Prueba codigo'};
 int semestre,edad,auxclave,clave;
 bool encontrado;
 main()
